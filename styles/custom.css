@@ -1,0 +1,145 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin: 0 auto;
+	text-align: center;
+}
+
+p {
+	text-align: left;
+}
+
+.navbar, footer {
+	background-color: #002942;
+}
+
+.navbar a:hover {
+	color: #91cc86 !important;
+}
+
+.navbar {
+	padding: 0px;
+}
+
+.navbar-brand {
+	margin-left: 20px;
+}
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	width: 100%;
+	margin: 0 auto;
+}
+
+#maincontent {
+	padding: 20px 0px;
+}
+
+footer {
+	padding: 30px;
+}
+
+.btn-primary {
+	background-color: #002942 !important;
+	color: #07a7a8 !important;
+	border: none;	
+	font-weight: bold;
+}
+
+h2 {
+	color: #07a7a8;
+	font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+#items,  #maincontent {
+	margin: 0 auto;
+}
+
+.col-md-4 {
+	padding-top: 30px;
+}
+
+#header {
+  width:100%;
+  height:350px;
+  background-image: url(../header.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: inherit;
+  background-size: cover;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+#bio {
+	width: 70%;
+	margin: 0 auto;
+}
+
+.headshot {
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+iframe {
+	display: block;
+	margin: auto;
+}
+
+
+h1 {
+	font-size: 4em;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	color: #ffffff;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+.btn-main {
+	padding: 10px 30px;
+	background-color: #06273D;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 3px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#designbg {
+  width:100%;
+  height:350px;
+  background-image: url(../design.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: inherit;
+  background-size: cover;
+}
+
+#motionbg {
+  width:100%;
+  height:350px;
+  background-image: url(../motion.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: inherit;
+  background-size: cover;
+}
+
+#videobg {
+  width:100%;
+  height:350px;
+  background-image: url(../video.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: inherit;
+  background-size: cover;
+}
+
